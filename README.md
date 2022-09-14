@@ -10,7 +10,7 @@ the summary of writing khaos ( a website)
 ### 前端
 1. react 第三方组件库
 2. `echarts-for-react` 不要用 yarn 下，有错
-3. `typescript` 在添加比较老的 `javascript` 包时可能会包缺失 `type` 的错，一般可通过 `yarn add @type/xxx` 解决
+3. `typescript` 在添加比较老的 `javascript` 包时可能会报缺失 `type` 的错，一般可通过 `yarn add @type/xxx` 解决
 4. 字符串拼接可通过 ``` `${stringA}${stringB}` ``` 来解决
 
 ### 后端
