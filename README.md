@@ -24,3 +24,4 @@ the summary of writing khaos ( a website)
 4. `mysql`中的表名不要叫 `order`，关键字重复 (我说sql怎么突然这么毒)
 5. 数据库连接池可以指定由一个 `init` 函数实现，每个连接创建一个连接池会导致报错（连接过多）
 6. `golang` 的单元测试项目启动地址不是项目根目录，读取配置文件的时候导致错误
+7.  `gin` 使用中间件跨域很方便，详见项目的 `middlewares` 目录下文件。
