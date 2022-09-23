@@ -2,7 +2,7 @@
 the summary of writing khaos ( a website)
 
 ### khaos:
-前端: tauri ( vite + react )  
+前端: tauri ( vite + react + typescript )  
 后端: go ( gin )
 
 ---
