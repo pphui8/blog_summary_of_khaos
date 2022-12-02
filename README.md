@@ -2,7 +2,8 @@
 the summary of writing khaos ( a website)
 
 ### khaos:
-前端: tauri ( vite + react + typescript )  
+khaos 是实训课的一个课设作品，是一个带商城购物的论坛系统的后端管理系统（包含前后端）  
+前端: tauri ( vite + react + typescript )   
 后端: go ( gin )
 
 ---
